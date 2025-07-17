@@ -1,0 +1,7 @@
+[2025-07-17 12:14:22] Script started
+[2025-07-17 12:20:45] Data extraction completed
+[2025-07-17 12:21:26] Data transformation completed
+[2025-07-17 12:22:00] Data loaded to CSV
+[2025-07-17 12:22:24] Data loaded to Database
+[2025-07-17 12:22:44] Running SQL Queries
+[2025-07-17 12:22:44] SQL Queries executed
