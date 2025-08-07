@@ -48,15 +48,15 @@ The goal of this project is to:
 ---
 
 ## 📂 File Structure
-project/
-│
-├── etl_pipeline.py # Main script to run the ETL process
-├── exchange_rates/
-│ ├── usd.csv # USD exchange rates
-│ ├── eur.csv # EUR exchange rates
-│ └── inr.csv # INR exchange rates
-├── banks_data.csv # Output CSV
-├── banks.db # Output SQLite DB
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+-project/
+-│
+-├── etl_pipeline.py # Main script to run the ETL process
+-├── exchange_rates/
+-│ ├── usd.csv # USD exchange rates
+-│ ├── eur.csv # EUR exchange rates
+-│ └── inr.csv # INR exchange rates
+-├── banks_data.csv # Output CSV
+-├── banks.db # Output SQLite DB
+-├── requirements.txt # Python dependencies
+-└── README.md # Project documentation
 
